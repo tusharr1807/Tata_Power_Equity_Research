@@ -8,6 +8,7 @@ Investment Summary
 Tata Power represents a long-term structural play on India’s clean energy transition, supported by strong earnings growth and renewable expansion. However, return ratios remain moderate due to its capital-intensive business model.
 
 Key Takeaways
+
 	•	EPS has grown ~3.5x (FY21–FY25), indicating strong earnings momentum
 	•	ROE (~11%) and ROCE (~12%) remain moderate
 	•	DCF-based valuation suggests the stock is fairly valued
