@@ -3,6 +3,17 @@
 ## 📌 Overview
 This project presents a concise one-page profile of Tata Power, covering its business model, financial performance, shareholder structure, and recent strategic developments. The objective is to deliver a quick yet insightful snapshot of the company, similar to what is typically used in equity research and investment banking workflows.
 
+Investment Summary
+
+Tata Power represents a long-term structural play on India’s clean energy transition, supported by strong earnings growth and renewable expansion. However, return ratios remain moderate due to its capital-intensive business model.
+
+Key Takeaways
+	•	EPS has grown ~3.5x (FY21–FY25), indicating strong earnings momentum
+	•	ROE (~11%) and ROCE (~12%) remain moderate
+	•	DCF-based valuation suggests the stock is fairly valued
+
+Overall View: Strong long-term story, but near-term upside depends on execution and return improvement
+
 ## 🏢 About the Company
 Tata Power is one of India’s largest integrated power companies, operating across the entire electricity value chain including generation, transmission, distribution, and renewables. The company is actively transitioning towards clean energy, with a strong focus on solar, EV charging infrastructure, and sustainable power solutions.
 
